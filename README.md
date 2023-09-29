@@ -27,7 +27,7 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 
 <font size="8">if you input 1, you can make a move. </font>
 
-![choice1]([https://github.com/yszdw/test/blob/main/directory.png](https://github.com/yszdw/test/blob/main/choice1.png)https://github.com/yszdw/test/blob/main/choice1.png)
+![choice1](https://github.com/yszdw/test/blob/main/choice1.png)
 
 
 
