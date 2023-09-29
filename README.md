@@ -21,11 +21,11 @@
 <font size="8">step2: start playing games</font>
 
 
-you can input "1" to start a new game, then you can three options: input "1" to input a move, input "2" to save the game, input "3" to exit the current game.
+you can input "1" in the main menu to start a new game, then you can three options: input "1" to input a move, input "2" to save the game, input "3" to exit the current game.
 
 ![choice](https://github.com/yszdw/test/blob/main/choice.png)
 
-<font size="8">if you input "1", you can make a move. </font>
+<font size="8">then if you input "1", you can make a move. </font>
 
 ![choice1](https://github.com/yszdw/test/blob/main/choice1.png)
 
@@ -43,19 +43,19 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 
 ![new_directory](https://github.com/yszdw/test/blob/main/new_directory.png)
 
-<font size="8">if you input "2", you load a saved file and continue to play game. </font>
+<font size="8">if you input "2" in the main menu, you can load a saved file and continue to play game. </font>
 
 ![load_game](https://github.com/yszdw/test/blob/main/load_game.png)
 
-<font size="8">if you input "2", you load a saved file and continue to play game. If the save_game is over, then you can only see the final board state . </font>
+<font size="8">if you input "2" in the main menu, you can load a saved file and continue to play game. If the save_game is over, then you can only see the final board state . </font>
 
 ![load_finished_game](https://github.com/yszdw/test/blob/main/load_finished.png)
 
-<font size="8">if you input "3", you can see the score. The score will be reset to 0 if you input "4" to close the socket connection . </font>
+<font size="8">if you input "3" in the main menu, you can see the score. The score will be reset to 0 if you input "4" to close the socket connection . </font>
 
 ![score](https://github.com/yszdw/test/blob/main/score.png)
 
-<font size="8">if you input "4", The socket connection will be closed. </font>
+<font size="8">if you input "4" in the main menu, The socket connection will be closed. </font>
 
 ![disconnection](https://github.com/yszdw/test/blob/main/disconnection.png)
 
