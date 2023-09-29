@@ -17,10 +17,13 @@
 
 ![directory](https://github.com/yszdw/test/blob/main/directory.png)
 
+
 <font size="8">step2: start playing games</font>
 
 
+you can input "1" to start a new game, then you can input "1" to input a move, input "2" to save the game, input "3" to exit the current game.
 
+![choice](https://github.com/yszdw/test/blob/main/choice.png)
 
 
 
