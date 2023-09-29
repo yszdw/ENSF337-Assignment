@@ -35,6 +35,8 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 ![invalid](https://github.com/yszdw/test/blob/main/invalid_number.png)
 
 
+<font size="8">if you input 2, you will be asked to input a filename, and the file will be save under this directory: CPSC441_files. </font>
+
 
 
 
