@@ -30,6 +30,13 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 ![choice1](https://github.com/yszdw/test/blob/main/choice1.png)
 
 
+<font size="8">if you input an invalid move, you will be asked to input a correct format. </font>
+
+![invalid](https://github.com/yszdw/test/blob/main/invalid_number.png)
+
+
+
+
 
 
 
