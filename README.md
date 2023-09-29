@@ -44,6 +44,7 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 ![new_directory](https://github.com/yszdw/test/blob/main/new_directory.png)
 
 <font size="8">if you input "2", you load a saved file and continue to play game. </font>
+
 ![load_game](https://github.com/yszdw/test/blob/main/load_game.png)
 
 <font size="8">if you input "2", you load a saved file and continue to play game. If the save_game is over, then you can only see the final board state . </font>
