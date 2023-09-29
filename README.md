@@ -46,9 +46,18 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 <font size="8">if you input "2", you load a saved file and continue to play game. </font>
 ![load_game](https://github.com/yszdw/test/blob/main/load_game.png)
 
-<font size="8">if you input "2", you load a saved file and continue to play game. if the save_game is over, then you can only see the final board state . </font>
+<font size="8">if you input "2", you load a saved file and continue to play game. If the save_game is over, then you can only see the final board state . </font>
 
 ![load_finished_game](https://github.com/yszdw/test/blob/main/load_finished.png)
+
+<font size="8">if you input "3", you can see the score. The score will be reset to 0 if you input "4" to close the socket connection . </font>
+
+![score](https://github.com/yszdw/test/blob/main/score.png)
+
+<font size="8">if you input "4", The socket connection will be closed. </font>
+
+![disconnection](hhttps://github.com/yszdw/test/blob/main/disconnection.png)
+
 
 
 
