@@ -57,7 +57,7 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 
 <font size="8">if you input "4", The socket connection will be closed. </font>
 
-![disconnection](hhttps://github.com/yszdw/test/blob/main/disconnection.png)
+![disconnection](https://github.com/yszdw/test/blob/main/disconnection.png)
 
 
 
