@@ -21,9 +21,13 @@
 <font size="8">step2: start playing games</font>
 
 
-you can input "1" to start a new game, then you can input "1" to input a move, input "2" to save the game, input "3" to exit the current game.
+you can input "1" to start a new game, then you can three options: input "1" to input a move, input "2" to save the game, input "3" to exit the current game.
 
 ![choice](https://github.com/yszdw/test/blob/main/choice.png)
+
+<font size="8">if you input 1, you can make a move. </font>
+
+![choice1]([https://github.com/yszdw/test/blob/main/directory.png](https://github.com/yszdw/test/blob/main/choice1.png)https://github.com/yszdw/test/blob/main/choice1.png)
 
 
 
