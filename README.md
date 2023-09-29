@@ -11,10 +11,10 @@
 
 <font color="white">After running the client, you'll be presented with the following
 
-![Connection Diagram](https://github.com/yszdw/CPSC319-Assignment/blob/main/connection.png)
+![Connection Diagram](https://github.com/yszdw/test/blob/main/connection.png)
 
 <font color="white">Then this directory will be created automatically in my D drive if it doesn't exist
-![directory](https://github.com/yszdw/ENSF337-Assignment/blob/main/directory.png)
+![directory](https://github.com/yszdw/test/blob/main/directory.png)
 
 <font size="8">step2: start playing games</font>
 
