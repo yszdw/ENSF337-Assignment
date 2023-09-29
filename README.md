@@ -25,7 +25,7 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 
 ![choice](https://github.com/yszdw/test/blob/main/choice.png)
 
-<font size="8">if you input 1, you can make a move. </font>
+<font size="8">if you input "1", you can make a move. </font>
 
 ![choice1](https://github.com/yszdw/test/blob/main/choice1.png)
 
@@ -42,6 +42,15 @@ you can input "1" to start a new game, then you can three options: input "1" to 
 <font size="8">then you can see a new file under this directory: CPSC441_files. </font>
 
 ![new_directory](https://github.com/yszdw/test/blob/main/new_directory.png)
+
+<font size="8">if you input "2", you load a saved file and continue to play game. </font>
+![load_game](https://github.com/yszdw/test/blob/main/load_game.png)
+
+<font size="8">if you input "2", you load a saved file and continue to play game. if the save_game is over, then you can only see the final board state . </font>
+
+![load_finished_game](https://github.com/yszdw/test/blob/main/load_finished.png)
+
+
 
 
 
