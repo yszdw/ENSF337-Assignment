@@ -1,4 +1,4 @@
-<font size="8">CPSC441 - Tic Tac Toe Client</font>
+<font size="16">CPSC441 - Tic Tac Toe Client</font>
 
 <font color="white">I am using a Windows system, but since the server was compiled for Linux x86-64, I used the Ubuntu terminal to connect to the server and play games. Since tictacClient.py is stored in my D drive, I need to navigate to the D drive in the Ubuntu terminal.</font>
 
