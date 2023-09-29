@@ -13,7 +13,10 @@
 
 ![Connection Diagram](https://github.com/yszdw/CPSC319-Assignment/blob/main/connection.png)
 
-<font size="3">step2: play games</font>
+<font color="white">Then this directory will be created automatically in my D drive if it doesn't exist
+![directory](https://github.com/yszdw/ENSF337-Assignment/blob/main/directory.png)
+
+<font size="3">step2: start playing games</font>
 
 
 
